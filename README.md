@@ -14,5 +14,6 @@
 ## Data
 
 ## Processing and Cleaning
-
+* Datatypes made consistent and then consolidated into one view using [this query](https://github.com/DamianoSkyy/Google-Cyclistic-Case-Study/blob/main/uncleaned_compile.sql).
+* 
 ## Analysis and Viz
