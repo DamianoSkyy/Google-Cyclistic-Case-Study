@@ -7,7 +7,7 @@ WHERE
   OR
   end_station_name IS NULL
 
--- Other columns checked for null values, none were found
+-- No null values were found in remaining columns
 
 SELECT * 
 FROM `cyclisticsql.divvydata.divvydata_2022`
