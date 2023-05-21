@@ -16,7 +16,7 @@
 ## Processing and Cleaning
 * Datatypes made consistent and then consolidated into one view using [this query](uncleaned_compile.sql).
 * `5,667,717` - Total number of rows containing data were returned after consolidation but required cleaning before analysis.
-* Missing start and end station names were found using [this query](station_check.sql).
+* Null values were identified using [this query](null_values.sql).
 * `1,298,357` - Total number of rows with missing start or end station data.
 * 
 ## Analysis and Viz
